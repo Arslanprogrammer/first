@@ -1,4 +1,4 @@
 <?php include "header.php"; ?>
-<p>body</p>
+<p>cotact</p>
 
 <?php include "footer.php"; ?>

@@ -1,4 +1,4 @@
 <?php include "header.php"; ?>
-<p>body</p>
+<p>about</p>
 
 <?php include "footer.php"; ?>
