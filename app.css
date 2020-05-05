@@ -1,0 +1,27 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+p{
+	font-size: 20px;
+	text-align: center;
+}
+header{
+	background:blue;
+	padding: 15px;
+}
+header h1{
+	color: white;
+	margin: 0px;
+	text-align: center;
+}
+footer {
+	background:black;
+	padding: 15px;
+}
+
+footer h1{
+	color: white;
+	margin: 0px;
+	text-align: center;
+}
