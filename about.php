@@ -1,3 +1,4 @@
+<?php $title="about us"?>
 <?php include "header.php"; ?>
 <p>about</p>
 
