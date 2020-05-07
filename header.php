@@ -2,7 +2,11 @@
 
 <head>
     <title><?php echo $title;?></title>
-    <link rel="stylesheet" href="app.css" />
+
+<link rel="stylesheet" href="assets/css/bootstrap.css" />
+<link rel="stylesheet" href="assets/css/app.css" />
+
+
 </head>
 <header><h1> logo</h1></header>
 <ul>
